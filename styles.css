@@ -1,0 +1,44 @@
+h1{
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-between;
+    background-color:maroon;
+    color : #ffffff;
+    padding: 190px;
+    margin: 100px;
+    font-size: 80px;   
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;        
+}
+.ul{
+    background-color:moccasin;
+}
+
+.header *{
+    border-radius: 20px;
+    display : flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    background-color:steelblue;
+    color: #ffffff;
+   
+
+    
+   
+
+
+}
+
+.below *{
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    background-color:steelblue;
+    color: #ffffff;
+
+   
+}
+*{
+    background-color:whitesmoke;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
